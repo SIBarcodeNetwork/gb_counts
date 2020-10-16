@@ -1,0 +1,8 @@
+name: sibn
+channels:
+  - defaults
+dependencies:
+  - pandas=1.1
+  - openpyxl=3.0
+  - pip:
+    - genetic_collections
